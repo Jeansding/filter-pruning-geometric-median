@@ -1,3 +1,5 @@
+17篇论文入选CVPR 2019，百度AI都在关注什么？（附论文地址）
+https://www.toutiao.com/a6685275361221018115/
 # Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration
 
 Implementation with PyTorch.
